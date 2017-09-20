@@ -29,7 +29,7 @@ Summary
 [Download PDF](https://github.com/communitycanvas/documents/raw/master/CommunityCanvas-Worksheet-Doc.pdf), 1 Page
 [Open Google Doc](https://docs.google.com/document/d/1fyuwwqX911i9CK1BjY8jXkk3v2m8ZCHeV3dVqYuDiGM/?doc=WorksheetDoc)
 
-#Improve it & Make it Your Own
+# Improve it & Make it Your Own
 
 ## License
 We hope that people will take the Community Canvas and make it their own. That’s why we’re releasing it as a Creative Commons license Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) – which means you can build upon the material, copy and share it for any non-commercial purpose as long as you give credit to community-canvas.org. If you’re unsure about using it or if you have commercial ideas in mind, please message us at team@community-canvas.org. More details on the license can be found [here](https://creativecommons.org/licenses/by-nc-sa/4.0/) and all files live in this GitHub repo.
